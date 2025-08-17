@@ -1,0 +1,14 @@
+pandas
+numpy
+scikit-learn
+xgboost
+matplotlib
+plotly
+geopandas
+folium
+streamlit
+shap
+fastapi
+uvicorn
+python-dotenv
+requests
